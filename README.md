@@ -1,4 +1,4 @@
-# Paradise - Restaurant Management system with referral and Delivery(C++)
+# Paradise - Restaurant referral and Delivery(C++)
 This project main functionalities are:
 
 1. A rating based system to award customers on their orders and referral with 4 level rating increment using k- array trees.
